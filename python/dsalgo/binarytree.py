@@ -1,7 +1,7 @@
 from typing import Any, Optional, List
 from dataclasses import dataclass, field
 
-from queue import Queue
+from dsalgo.queue import Queue
 
 
 class Tree:
