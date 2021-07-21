@@ -127,3 +127,17 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# scala
+scala/*.class
+scala/*.log
+scala/.cache
+scala/.history
+scala/.lib/
+scala/dist/*
+scala/target/
+scala/lib_managed/
+scala/src_managed/
+scala/project/boot/
+scala/project/plugins/
