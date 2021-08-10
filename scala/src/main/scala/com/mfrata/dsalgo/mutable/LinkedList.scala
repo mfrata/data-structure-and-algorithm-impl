@@ -1,4 +1,4 @@
-package com.mfrata.dsalgo
+package com.mfrata.dsalgo.mutable
 
 import scala.annotation.tailrec
 

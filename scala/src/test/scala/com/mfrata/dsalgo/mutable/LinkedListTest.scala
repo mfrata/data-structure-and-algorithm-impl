@@ -1,9 +1,9 @@
 import org.scalatest.flatspec.AnyFlatSpec
 
-import com.mfrata.dsalgo.LinkedList
+import com.mfrata.dsalgo.mutable.LinkedList
 
 
-class LinkedListTest extends AnyFlatSpec {
+class MutableLinkedListTest extends AnyFlatSpec {
   "LinkedList" should "instantiate with size 0" in {
     val ll = new LinkedList[Int]
     assert(ll.size == 0)
